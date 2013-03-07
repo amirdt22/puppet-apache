@@ -1,0 +1,7 @@
+name         'camptocamp-apache'
+version      '0.0.1'
+source       'https://github.com/camptocamp/puppet-apache'
+author       'DevOps Team / Camptocamp'
+summary      'Camptocamp Apache Module'
+description  'Apache Module for Puppet'
+project_page 'https://github.com/camptocamp/puppet-apache'
